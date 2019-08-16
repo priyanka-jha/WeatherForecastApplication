@@ -7,7 +7,9 @@ An android application for weather forecast using Restful API and third party AP
    * [Eventbus](https://github.com/greenrobot/EventBus)
    * [Butterknife](https://github.com/JakeWharton/butterknife)
 
-
+**Third party API used:**
+  
+  * [Dark Sky API](https://darksky.net/dev)
 
 
 **Here is the screenshot:**
